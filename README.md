@@ -1,4 +1,14 @@
-## Available Scripts
+### Description
+
+Here, we have validation of form fields with React js. Try to fill correctly and incorrectly every field of form and check out the response of this. The validation are:
+
+  1.- All fields must be fill
+  2.- Email field must be fill with a valid email (some@somewhere.com). In another case, the label html element of this field (text with the legend Email) it change between red and  green (correct | incorrect) 
+  3.- Password field need to be fill with 5 characters
+  4.- Repeat password field need to be equal to password
+  5.- Press the "send" button. If all field was fill correctly, you can ficticiously loggin xd. 
+
+## Run
 
 In the project directory, you can run:
 
@@ -20,12 +30,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Description
 
-Here, we have validation of form fields with React js. Try to fill correctly and incorrectly every field of form and check out the response of this. The validation are:
-
-  1.- All fields must be fill
-  2.- Email field must be fill with a valid email (some@somewhere.com). In another case, the label html element of this field (text with the legend Email) it change between red and  green (correct | incorrect) 
-  3.- Password field need to be fill with 5 characters
-  4.- Repeat password field need to be equal to password
-  5.- Press the "send" button. If all field was fill correctly, you can ficticiously loggin xd. 

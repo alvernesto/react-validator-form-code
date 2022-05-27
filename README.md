@@ -8,6 +8,13 @@ Here, we have validation of form fields with React js. Try to fill correctly and
   + Repeat password field need to be equal to password
   + Press the "send" button. If all field was fill correctly, you can ficticiously loggin xd. 
 
+Here, we have too a little examples of: 
+
+  + Dynamically update custom properties (Lavel)
+  + email, equality passwords compare, no empty field validations with arrow´s functions and blabla ...
+  + High modularization app; a Home component deploys Form, with input, label and alert components 
+  + React functional components, props and wherever
+
 ## Run
 
 In the project directory, you can run:
